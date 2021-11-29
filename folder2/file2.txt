@@ -1,4 +1,3 @@
 file2 first line
 file2 second line
 third line
-fourth line
