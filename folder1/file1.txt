@@ -12,7 +12,3 @@ eleventh line
 stash test1
 cherry pick 2
 cherry pick 3
-<<<<<<< HEAD
-cherry pick 4
-=======
->>>>>>> db3471ca2594a97af214170741cb85d5d9aa2be9

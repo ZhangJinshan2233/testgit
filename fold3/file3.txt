@@ -9,4 +9,3 @@ eighth line
 test pick cherry 1
 test pick cherry 1
 test pick cherry 2
-test pick cherry 3
