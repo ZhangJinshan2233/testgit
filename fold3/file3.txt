@@ -6,4 +6,4 @@ fifth line
 sixth line
 seventh line
 eighth line 
-test pick cherry 1
+test pick cherry 2
