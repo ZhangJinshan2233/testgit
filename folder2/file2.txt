@@ -6,4 +6,3 @@ fifth line
 sixth line
 seventh line
 cherry pick 2
-cherry pick 3
