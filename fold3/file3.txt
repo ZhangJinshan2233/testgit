@@ -7,4 +7,3 @@ sixth line
 seventh line
 eighth line 
 test pick cherry 2
-test pick cherry 3
