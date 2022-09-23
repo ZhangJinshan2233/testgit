@@ -4,8 +4,12 @@ third line
 fourth line
 fifth line
 sixth line
+<<<<<<< HEAD
 seventh line
 eighth line 
 test pick cherry 1
 test pick cherry 1
 test pick cherry 2
+=======
+seventh line
+>>>>>>> 2447af9 (f1 update file3.txt)
