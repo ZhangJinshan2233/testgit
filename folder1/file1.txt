@@ -9,9 +9,6 @@ eight line
 ninth line
 tenth line
 eleventh line
-<<<<<<< HEAD
-=======
 stash test1
 cherry pick 2
 cherry pick 3
->>>>>>> new2
