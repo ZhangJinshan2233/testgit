@@ -10,4 +10,4 @@ test pick cherry 1
 test pick cherry 1
 test pick cherry 2
 seventh line
-test pick cherry 3
+test pick cherry 4
