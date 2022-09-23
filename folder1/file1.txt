@@ -8,4 +8,9 @@ seven line
 eight line
 ninth line
 tenth line
+<<<<<<< HEAD
 eleventh line
+=======
+eleventh line
+stash test1
+>>>>>>> 50a424c (test cherr5)
